@@ -1,0 +1,15 @@
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! https://mths.be/cssesc v3.0.0 by @mathias */
+
+/*!
+ * is-number <https://github.com/jonschlinkert/is-number>
+ *
+ * Copyright (c) 2014-present, Jon Schlinkert.
+ * Released under the MIT License.
+ */

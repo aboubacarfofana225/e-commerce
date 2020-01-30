@@ -1,0 +1,26 @@
+a:4:{s:8:"template";s:13:"di-restaurant";s:4:"mods";a:25:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:2;}s:18:"custom_css_post_id";i:105;s:12:"header_image";s:13:"remove-header";s:11:"custom_logo";i:61;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1562582518;s:4:"data";a:4:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:12:"sidebar_page";a:0:{}s:11:"sidebar_woo";a:0:{}}}s:22:"stickymenu_setting_lrg";b:1;s:19:"left_footer_setting";s:40:"<p>Site Title, Some rights reserved.</p>";s:12:"loading_icon";b:1;s:23:"stickymenu_setting_smal";b:0;s:14:"endis_ftr_wdgt";b:0;s:14:"ftr_wdget_lyot";s:1:"4";s:17:"cprt_footer_typog";a:9:{s:11:"font-family";s:6:"Roboto";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"15px";s:11:"line-height";s:4:"25px";s:14:"letter-spacing";s:3:"0px";s:14:"text-transform";s:7:"inherit";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:12:"stitle_typog";a:9:{s:11:"font-family";s:7:"Lobster";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"28px";s:11:"line-height";s:3:"1.2";s:14:"letter-spacing";s:3:"1px";s:14:"text-transform";s:7:"inherit";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:14:"top_menu_typog";a:8:{s:11:"font-family";s:9:"Open Sans";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"11px";s:14:"letter-spacing";s:3:"2px";s:14:"text-transform";s:9:"uppercase";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:16:"blog_hdlin_typog";a:10:{s:11:"font-family";s:4:"Arvo";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"22px";s:11:"line-height";s:3:"1.3";s:14:"letter-spacing";s:3:"0px";s:14:"text-transform";s:7:"inherit";s:10:"text-align";s:6:"center";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:17:"excerpt_con_typog";a:10:{s:11:"font-family";s:9:"Fauna One";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"14px";s:11:"line-height";s:3:"1.7";s:14:"letter-spacing";s:3:"0px";s:14:"text-transform";s:7:"inherit";s:10:"text-align";s:7:"justify";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:18:"excerpt_or_content";s:7:"excerpt";s:14:"excerpt_length";s:2:"40";s:9:"dispostdt";s:9:"published";s:14:"blog_list_grid";s:4:"list";s:19:"blog_archive_layout";s:6:"rights";s:20:"myaccount_icon_endis";b:1;s:18:"product_per_column";s:1:"3";s:10:"woo_layout";s:6:"rights";}s:7:"options";a:20:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"3";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:520:".wpcf7 .wpcf7-form label {
+	color:	#333;
+}
+.wpcf7 .wpcf7-form p {
+	margin-top:10px;
+	padding:10px;
+}
+.wpcf7 .wpcf7-form .wpcf7-form-control {
+	border-top:1px solid #fff;
+	border-left:1px solid #fff;
+	border-right:1px solid #fff;
+	padding: 7px;
+	background-color: #ffffff;
+	border-bottom: 1px solid  #ccc;
+}
+.wpcf7 .wpcf7-form .wpcf7-submit {
+	border-radius:	20px;
+	background-color: #009999;
+	border:1px solid #009999;
+	text-align:	center;
+	padding:	10px;
+	width:	60%;
+	color:#fff;
+	cursor:	pointer;
+	margin-left:	13%;
+}";}

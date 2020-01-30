@@ -1,0 +1,25 @@
+2020-01-28T10:25:37+00:00 CRITICAL Uncaught Error: Class 'Cartflows_Utils' not found in C:\laragon\www\E-commerce-CS\wp-content\plugins\cartflows\classes\class-cartflows-loader.php:273
+Stack trace:
+#0 C:\laragon\www\E-commerce-CS\wp-content\plugins\cartflows\classes\class-cartflows-loader.php(171): Cartflows_Loader->load_helper_files_components()
+#1 C:\laragon\www\E-commerce-CS\wp-includes\class-wp-hook.php(288): Cartflows_Loader->load_plugin('')
+#2 C:\laragon\www\E-commerce-CS\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 C:\laragon\www\E-commerce-CS\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\laragon\www\E-commerce-CS\wp-settings.php(392): do_action('plugins_loaded')
+#5 C:\laragon\www\E-commerce-CS\wp-config.php(100): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\E-commerce-CS\wp-load.php(37): require_once('C:\\laragon\\www\\...')
+#7 C:\laragon\www\E-commerce-CS\wp-cron.php(44): require_once('C:\\laragon\\www\\...')
+#8 {main}
+  thrown dans C:\laragon\www\E-commerce-CS\wp-content\plugins\cartflows\classes\class-cartflows-loader.php à la ligne 273
+
+2020-01-28T10:28:52+00:00 CRITICAL Uncaught Error: Class 'TInvWL_Product_Legacy' not found in C:\laragon\www\E-commerce-CS\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:633
+Stack trace:
+#0 C:\laragon\www\E-commerce-CS\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->legacy_transfer('')
+#1 C:\laragon\www\E-commerce-CS\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\E-commerce-CS\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\laragon\www\E-commerce-CS\wp-settings.php(523): do_action('init')
+#4 C:\laragon\www\E-commerce-CS\wp-config.php(100): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\E-commerce-CS\wp-load.php(37): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\E-commerce-CS\wp-cron.php(44): require_once('C:\\laragon\\www\\...')
+#7 {main}
+  thrown dans C:\laragon\www\E-commerce-CS\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php à la ligne 633
+

@@ -1,0 +1,4 @@
+Di Themes Demo Site Importer plugin is GPLv2 and developed with the help of:
+'One Click Demo Import' plugin, (C) 2016 ProteusThemes.com, GPLv2 
+
+Di Themes Demo Site Importer plugin license: http://www.gnu.org/licenses/gpl-2.0.html

@@ -1,0 +1,554 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Di Themes Demo Site Importer\n"
+"POT-Creation-Date: 2019-06-16 12:19+0530\n"
+"PO-Revision-Date: 2019-06-16 12:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: di-themes-demo-site-importer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: di-themes-demo-site-importer.php:29
+#, php-format
+msgid ""
+"The %2$s Di Themes Demo Site Importer %3$s plugin requires %2$sPHP 5.3.2+"
+"%3$s to run properly. Please contact your hosting company and ask them to "
+"update the PHP version of your site to at least PHP 5.3.2.%4$s Your current "
+"version of PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#: inc/class-dtdsi-customizer-importer.php:36
+#, php-format
+msgid "The customizer import file is missing! File path: %1$s"
+msgstr ""
+
+#: inc/class-dtdsi-customizer-importer.php:56
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: inc/class-dtdsi-customizer-importer.php:62
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:70
+#, php-format
+msgid ""
+"\"import_file_url\" or \"local_import_file\" for %1$s %2$s %3$s are not "
+"defined!"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:176
+#, php-format
+msgid "URL for %1$s %2$s %3$s file is not defined!"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:198
+#, php-format
+msgid ""
+"An error occurred while fetching %1$s %2$s %3$s file from the server!"
+"%4$sReason: %5$s - %6$s."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:238 inc/class-dtdsi-helpers.php:282
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %1$s %2$s."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:317
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %1$s %2$s."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:341
+#, php-format
+msgid ""
+"This WordPress page does not have %1$s direct %2$s write file access. This "
+"plugin needs it in order to save the demo import xml file to the upload "
+"directory of your site. You can change this setting with these instructions: "
+"%3$s."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:352
+msgid "Di Themes Demo Import"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:353 inc/class-dtdsi-main.php:84
+#: inc/class-dtdsi-main.php:238
+msgid "Import Demo Website"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:365
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:373
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:438
+msgid "Di Themes Demo Import - "
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:474
+#, php-format
+msgid ""
+"%1$sYour user role isn't high enough. You don't have permission to import "
+"demo data.%2$s"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:510
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:512 inc/class-dtdsi-helpers.php:534
+#: inc/class-dtdsi-helpers.php:553 inc/class-dtdsi-helpers.php:561
+msgid "Upload files"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:530
+#, php-format
+msgid "Widget file was not uploaded. Error: %1$s"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:549
+#, php-format
+msgid "Customizer file was not uploaded. Error: %1$s"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:559
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:577
+#, php-format
+msgid "Initial max execution time = %1$s"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:581
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: inc/class-dtdsi-helpers.php:585 inc/class-dtdsi-helpers.php:586
+msgid "not defined!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:83 inc/class-dtdsi-main.php:106
+msgid "Di Themes Demo Website Importer"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:101
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: inc/class-dtdsi-main.php:113
+#, php-format
+msgid ""
+"%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that you "
+"might experience server timeout errors.%4$s"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:128
+msgid ""
+"Quickly import your theme's live demo content, widgets and settings. This "
+"will provide you with a basic layout to build your website and speed up the "
+"development process."
+msgstr ""
+
+#: inc/class-dtdsi-main.php:131
+msgid "The following data will be imported:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:134
+msgid "Posts"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:135
+msgid "Pages"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:136
+msgid "Images"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:137
+msgid "Widgets"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:138
+msgid "Menus"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:139
+msgid "Settings"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:142
+msgid "NOTE: Your existing content will NOT be deleted or modified."
+msgstr ""
+
+#: inc/class-dtdsi-main.php:159
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:164
+msgid "Manually upload the demo files"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:167
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:172
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:172 inc/class-dtdsi-main.php:177
+msgid "(*optional)"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:177
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:187
+msgid "Choose which demo you want to import:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:212
+msgid "Import preview:"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:216 inc/class-dtdsi-main.php:271
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: inc/class-dtdsi-main.php:239
+msgid ""
+"Click the button once and wait. The import process may take several minutes."
+msgstr ""
+
+#: inc/class-dtdsi-main.php:243
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:328
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:345 inc/class-dtdsi-main.php:356
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:352
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:362
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:409
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly. If it "
+"did, you can deactivate the %3$sDi Themes Demo Site Importer%4$s plugin.%5$s"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:420
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:474
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: inc/class-dtdsi-main.php:476
+msgid "Importing content"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:515 inc/class-dtdsi-main.php:527
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:549 inc/class-dtdsi-main.php:557
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:555
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/class-dtdsi-main.php:607
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:232
+msgid "Imported"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:242
+msgid "No Title"
+msgstr ""
+
+#: inc/class-dtdsi-widget-importer.php:291
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/di-themes/di-magazine/import-settings.php:10
+msgid "Di Magazine Demo Website"
+msgstr ""
+
+#: inc/di-themes/di-magazine/import-settings.php:16
+msgid ""
+"Just click on \"Import Demo Website\" button to import Di Magazine demo "
+"website."
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:166
+#: inc/importer/class-wxr-importer.php:282
+#: inc/importer/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:753
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:763
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:841
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:855
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:887
+#: inc/importer/class-wxr-importer.php:1705
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:892
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1519
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1540
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1544
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1681
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1710
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1763
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1787
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1809
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1822
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1827
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1841
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1846
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1872
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1883
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1928
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1933
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1955
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1959
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1973
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1977
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/importer/class-wxr-importer.php:1994
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Di Themes Demo Site Importer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import demo website of theme developed by Di Themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Di Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://dithemes.com"
+msgstr ""
